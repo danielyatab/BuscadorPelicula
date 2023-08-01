@@ -1,0 +1,12 @@
+body{
+  width: 80vw;
+  margin: 0 auto;
+  background-color: #0E2954;
+  color: white;
+  text-align: center;
+  overflow-x:hidden ;
+}
+
+.background-card{
+  background-color: #1F6E8C;
+}
